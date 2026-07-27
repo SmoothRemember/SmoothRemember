@@ -1,2 +1,5 @@
- WIP sajkjdkljksdf
-<img width="900" height="685" alt="mizuena-project-sekai" src="https://github.com/user-attachments/assets/fdd824f8-847c-4a7a-8520-ebd4cda9aa70" />
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jfqo4kxw2e5lp33eaypjguucja&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
